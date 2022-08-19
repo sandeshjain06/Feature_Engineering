@@ -23,6 +23,10 @@
 
 3. Handling Missing values with Random values and End of Distribution values.
 
+
+
+
+
 4. Handling Categorial values with Mode and Missing Keyword 
 
 5. Handling Numerical and Categorial values by Random sample Imputation
